@@ -1,5 +1,5 @@
 
-![Hey there, I'm Yomna. I'm a Frontend developer,  Check out my work]('https://yomna062.github.io/yommna/')
+
 
 
 # 👋 &nbsp;Hi there  I'm Yomna
