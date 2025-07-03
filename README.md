@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7005C&center=true&vCenter=true&width=435&lines=I'm+Yomna+Badr;aka+Yoyo+💖;Frontend+Developer;React+%7C+Tailwind+%7C+JavaScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=F7005C&center=true&vCenter=true&width=500&lines=Hi+I'm+Yomna+Badr;Frontend+Developer;React+%7C+Tailwind+CSS+%7C+JavaScript;Computer+Science+Graduate" alt="Typing SVG" />
 </h1>
+
 
 <p align="center">
   💻 Turning ideas into interactive & responsive web apps with clean and modern UI.
