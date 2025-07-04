@@ -1,0 +1,26 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # يشغل الـ workflow كل يوم 00:00 UTC
+  workflow_dispatch:       # يسمح بتشغيله يدويًا من تبويب Actions
+
+jobs:
+  build:
+    name: Generate Snake Animation
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@master
+        with:
+          github_user_name: yomna062
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - name: Push to the output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
