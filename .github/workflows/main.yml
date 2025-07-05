@@ -1,8 +1,10 @@
 name: Generate Snake Animation
 
 on:
+  # تشغيل تلقائي كل يوم الساعة 00:00 بتوقيت UTC
   schedule:
     - cron: "0 0 * * *"
+  # إمكانية تشغيل يدوي من واجهة GitHub
   workflow_dispatch:
 
 jobs:
@@ -10,6 +12,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # ✅ تحميل ملفات الريبو
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # ✅ توليد ملف الـ Snake
       - name: Generate GitHub Contribution Snake
         uses: Platane/snk@v3
         with:
@@ -17,8 +24,9 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
-      - name: Push snake to the output branch
+
+      # ✅ نشر الملفات على فرع output
+      - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
