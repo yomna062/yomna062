@@ -38,7 +38,7 @@
 AI-powered web app that allows users to search for doctors by specialty, rating, and availability. Includes booking system, rating system, and dashboards for both users and admins.
 
 - 🔧 Stack: React, Tailwind, REST API, Markdown, Axios, SweetAlert
-- 🔗 [View Repo](https://github.com/yomna062/doctor-booking)
+- 🔗 [View Repo](https://github.com/yomna062/graduation.git)
 - 🌐 [Live Demo](https://graduation-oxaikcg9r-yomna062s-projects.vercel.app/)
 
 ---
