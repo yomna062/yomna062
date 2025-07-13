@@ -8,7 +8,7 @@
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
 - 🎓 I recently graduated with a degree in Computer Science, where I built a smart **AI-powered doctor booking system** as my graduation project.
 - 💡 Passionate about building intuitive UIs, strong user experiences, and real-world web apps.
@@ -17,7 +17,7 @@
 
 ---
 
-### 💼 My Tech Stack
+## 💼 My Tech Stack
 
 <div align="center">
   
@@ -35,17 +35,18 @@
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-#### 🏥 Smart Doctor Booking System
+### 🏥 Smart Doctor Booking System
 AI-powered web app that allows users to search for doctors by specialty, rating, and availability. Includes booking system, rating system, and dashboards for both users and admins.
 
 - 🔧 Stack: React, Tailwind, REST API, Markdown, Axios, SweetAlert
 - 🔗 [View Repo](https://github.com/yomna062/doctor-booking)
+- 🌐 [Live Demo](https://graduation-oxaikcg9r-yomna062s-projects.vercel.app/)
 
 ---
 
-#### 📰 News Dashboard Admin Panel
+### 📰 News Dashboard Admin Panel
 Fully responsive dashboard for managing news posts and users. Features a WYSIWYG editor with markdown support, preview, and image handling.
 
 - 🔧 Stack: React, ReactQuill, Turndown, Tailwind, REST API
@@ -53,7 +54,7 @@ Fully responsive dashboard for managing news posts and users. Features a WYSIWYG
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yomna062&show_icons=true&theme=react" height="170" />
@@ -61,7 +62,7 @@ Fully responsive dashboard for managing news posts and users. Features a WYSIWYG
 
 ---
 
-### 📚 Most Used Languages
+## 📚 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yomna062&layout=compact&theme=react&langs_count=6" />
@@ -69,7 +70,7 @@ Fully responsive dashboard for managing news posts and users. Features a WYSIWYG
 
 ---
 
-### 🐍 Watch my contributions snake eat my GitHub activity
+## 🐍 Watch my contributions snake eat my GitHub activity
 
 <p align="center">
   <img src="https://github.com/yomna062/yomna062/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
@@ -77,16 +78,16 @@ Fully responsive dashboard for managing news posts and users. Features a WYSIWYG
 
 ---
 
-### 📬 Connect With Me
+## 📬 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/yomna-badr-13023428b" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:yomna.y.badr@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="https://graduation-oxaikcg9r-yomna062s-projects.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white" />
   </a>
 </p>
