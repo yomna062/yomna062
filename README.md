@@ -1,6 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=F7005C&center=true&vCenter=true&width=500&lines=Hi+I'm+Yomna+Badr;Frontend+Developer;React+%7C+Tailwind+CSS+%7C+
-    Javascript;Computer+Science+Graduate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=F7005C&center=true&vCenter=true&width=500&lines=Hi+I'm+Yomna+Badr;Frontend+Developer;React+%7C+Tailwind+CSS+%7C+JavaScript;Computer+Science+Graduate" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -17,6 +16,7 @@
 - 🌍 Based in Egypt, coding my way to the global tech scene.
 
 ---
+
 ## 💼 My Tech Stack
 
 <p align="center">
@@ -39,7 +39,7 @@
 AI-powered web app that allows users to search for doctors by specialty, rating, and availability. Includes booking system, rating system, and dashboards for both users and admins.
 
 - 🔧 Stack: React, Tailwind, REST API, Markdown, Axios, SweetAlert
-- 🔗 [View Repo](https://github.com/yomna062/graduation.git)
+- 🔗 [View Repo](https://github.com/yomna062/graduation)
 - 🌐 [Live Demo](https://graduation-oxaikcg9r-yomna062s-projects.vercel.app/)
 
 ---
