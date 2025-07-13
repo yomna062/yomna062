@@ -3,6 +3,7 @@
 </h1>
 
 <p align="center">
+  <h2>🤍أَصْلِحْ لِي شَأْنِي كُلَّهُ</h2>
   💻 Turning ideas into interactive & responsive web apps with clean and modern UI.
 </p>
 
